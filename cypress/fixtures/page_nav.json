@@ -1,0 +1,4 @@
+{
+    "days": ".page-nav__day",
+    "day": ".page-nav > :nth-child(2)"
+}
